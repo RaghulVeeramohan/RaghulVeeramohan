@@ -1,6 +1,6 @@
 # Hi, I'm Raghul Veeramohan 👋
 
-**Aspiring Data Analyst | Turning data into decisions**
+**Data Analyst | Turning data into decisions**
 
 I'm a fresher building hands-on projects in data analytics. I enjoy cleaning messy data, finding patterns, and turning numbers into clear stories that help businesses decide.
 
